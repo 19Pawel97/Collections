@@ -1,6 +1,10 @@
+package ScreenshotFrom20210123;
+
+import lombok.Data;
+
 import java.util.*;
 
-public class DuplicateChecker {
+public class DuplicateCheckerEx2 {
 
     public static void main(String[] args) {
 
